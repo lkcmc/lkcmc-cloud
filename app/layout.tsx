@@ -32,11 +32,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-
-
-export const metadata: Metadata = {
-  title: "lkcmc.cloud",
-  description: "lkcmc.cloud",
-  robots: "noindex, nofollow",
-};
