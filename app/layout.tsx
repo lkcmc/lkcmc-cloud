@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LKCMC CLOUD",
-  description: "creative medical solutions",
+  title: "lkcmc.cloud",
+  description: "lkcmc.cloud",
+  robots: "noindex, nofollow",
 };
 
 export default function RootLayout({
@@ -32,3 +33,10 @@ export default function RootLayout({
   );
 }
 
+
+
+export const metadata: Metadata = {
+  title: "lkcmc.cloud",
+  description: "lkcmc.cloud",
+  robots: "noindex, nofollow",
+};
